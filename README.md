@@ -1,2 +1,2 @@
 # HUA-Project
-This project belongs from HUA
+This project belongs from HUA.
